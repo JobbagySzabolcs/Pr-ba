@@ -1,2 +1,4 @@
 ez egy teszt
 ez egy próba
+még egy sor
+teszt sor
